@@ -4,11 +4,15 @@ Automates account processing using scripts for calculating prices, handling docu
 
 ## Project Structure
 
-- `CalculatePriceBasedOnLowerValue.py`
-- `DocumentHandler.py`
-- `main.py`
-- `WebDriverSetup.py`
-- `WebUtil.py`
+- CalculatePriceBasedOnHigherValue.py
+- CalculatePriceBasedOnLowerValue.py
+- DocumentHandler.py
+- NavigateToPage.py
+- ProductHandler.py
+- README.md
+- WebDriverSetup.py
+- WebUtil.py
+- main.py
 
 ## Prerequisites
 
